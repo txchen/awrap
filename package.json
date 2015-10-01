@@ -1,0 +1,24 @@
+{
+  "name": "awrap",
+  "version": "0.0.1",
+  "description": "async function wrapper for expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txchen/awrap.git"
+  },
+  "keywords": [
+    "async",
+    "es7",
+    "expressjs"
+  ],
+  "author": "Tianxiang Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/txchen/awrap/issues"
+  },
+  "homepage": "https://github.com/txchen/awrap#readme"
+}
