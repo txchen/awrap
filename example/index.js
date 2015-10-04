@@ -1,5 +1,7 @@
 // entry point, do not use babel syntax here in this file, so that 'node' can launch this.
-require('babel/register')
+require('babel/register')({
+  stage: 1
+})
 // ES5 code here
 var server = require('./app')
 
