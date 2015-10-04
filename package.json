@@ -4,7 +4,6 @@
   "description": "async function wrapper for expressjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "example": "node ./example/index.js"
   },
   "repository": {
